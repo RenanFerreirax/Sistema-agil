@@ -44,7 +44,7 @@ Este projeto tem como objetivo demonstrar a implementação de um sistema básic
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/smoking-snake.git
+git clone https://github.com/RenanFerreirax/Sistema-agil.git
 
 # Acesse a pasta do projeto
 cd smoking-snake
