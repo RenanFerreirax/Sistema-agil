@@ -13,15 +13,12 @@ Hoje, a empresa combina sua tradição comercial com soluções digitais moderna
 
 ✨ Funcionalidades
 
-Tela de Login: Formulário com validação de campos (email e senha).
-
-Dashboard Protegido: Página acessível apenas para usuários autenticados.
-
-Logout: Funcionalidade para encerrar a sessão do usuário.
+- Tela de Login: Formulário com validação de campos (email e senha).
+- Dashboard Protegido: Página acessível apenas para usuários autenticados.
+- Logout: Funcionalidade para encerrar a sessão do usuário.
 
 
 🚀 Tecnologias Utilizadas
 
-    NodeJS
-
-    Express
+- NodeJS
+- Express
