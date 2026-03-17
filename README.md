@@ -23,3 +23,5 @@ Logout: Funcionalidade para encerrar a sessão do usuário.
 🚀 Tecnologias Utilizadas
 
 Node.js
+
+Express.
